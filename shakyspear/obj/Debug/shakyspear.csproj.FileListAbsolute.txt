@@ -1,0 +1,6 @@
+c:\users\wecancodeit\documents\visual studio 2015\Projects\shakyspear\shakyspear\bin\Debug\shakyspear.exe.config
+c:\users\wecancodeit\documents\visual studio 2015\Projects\shakyspear\shakyspear\bin\Debug\shakyspear.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\shakyspear\shakyspear\bin\Debug\shakyspear.pdb
+c:\users\wecancodeit\documents\visual studio 2015\Projects\shakyspear\shakyspear\obj\Debug\shakyspear.csprojResolveAssemblyReference.cache
+c:\users\wecancodeit\documents\visual studio 2015\Projects\shakyspear\shakyspear\obj\Debug\shakyspear.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\shakyspear\shakyspear\obj\Debug\shakyspear.pdb
